@@ -1,6 +1,6 @@
 # Aurora Lights
 
-A small GUI for the chassis RGB lighting on the **Alienware Aurora R16**, for
+A small GUI for the chassis RGB lighting on the **Dell Alienware Aurora R16**, for
 **Linux and Windows**. Pick an effect, choose colors from a palette or a color
 picker, set speed and brightness, and press **Apply**.
 
