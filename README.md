@@ -7,6 +7,12 @@ picker, set speed and brightness, and press **Apply**.
 Effects: **Static**, **Breathe**, **Pulse**, **Morph** (two colors),
 **Spectrum**, **Rainbow wave**, and **Off**.
 
+![Aurora Lights with the Rainbow wave effect selected and an animated preview strip](docs/screenshots/rainbow.png)
+
+| Static color from the palette | Morph between two colors |
+| --- | --- |
+| ![Static effect with the color palette, custom color picker and brightness slider](docs/screenshots/static.png) | ![Morph effect with Color 1 and Color 2 slots, palette, speed and brightness](docs/screenshots/morph.png) |
+
 ## Download
 
 Get the binary for your system from the
