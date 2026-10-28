@@ -121,20 +121,6 @@ On Linux, `packaging/aurora-lights.desktop` adds the app to your applications
 menu (copy it to `~/.local/share/applications/`; it expects `aurora-lights` on
 your `PATH`).
 
-### Publishing a release
-
-[`.github/workflows/release.yml`](.github/workflows/release.yml) builds both
-binaries on GitHub Actions. Push a version tag to publish them:
-
-```bash
-git tag v0.1.0
-git push origin v0.1.0
-```
-
-The Windows binary links the C runtime statically (see
-[`.cargo/config.toml`](.cargo/config.toml)), so it does not need the Visual
-C++ Redistributable.
-
 ## Safety notes
 
 - Effects are written to the controller's volatile animation slot. Nothing is
