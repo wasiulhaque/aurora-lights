@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Aurora Lights
+Comment=Chassis RGB lighting for the Alienware Aurora R16
+Exec=aurora-lights
+Icon=preferences-desktop-color
+Terminal=false
+Categories=Settings;HardwareSettings;
